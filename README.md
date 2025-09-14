@@ -1,6 +1,6 @@
 # Payload + Clerk Starter
 
-A production-ready starter template combining [Payload CMS](https://payloadcms.com/) 3.0 with [Clerk](https://clerk.com/) authentication, built with Next.js 15 and TypeScript.
+A starter template combining [Payload CMS](https://payloadcms.com/) 3.0 with [Clerk](https://clerk.com/) authentication, built with Next.js 15 and TypeScript.
 
 ## ✨ Features
 
@@ -26,7 +26,7 @@ A production-ready starter template combining [Payload CMS](https://payloadcms.c
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/payload-clerk-starter.git
+git clone https://github.com/carlospr-dev/payload-clerk-starter.git
 cd payload-clerk-starter
 pnpm install
 ```
@@ -231,4 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-**Need help?** Open an issue or check the [discussions](https://github.com/yourusername/payload-clerk-starter/discussions).
+**Need help?** Open an issue or check the [discussions](https://github.com/carlospr-dev/payload-clerk-starter/discussions).
